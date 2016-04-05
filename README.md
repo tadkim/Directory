@@ -1,7 +1,20 @@
 
-Directory Document
+Directory Document 7-1 패턴
 ___
+* `base/`
+* `components/`
+* `layout/`
+* `pages/`
+* `themes/`
+* `utils/`
+* `vendors/`
+그리고 물론:
 
+* `main.scss`
+
+
+___
+___
 ##sass/
 
 * **`base/`**
