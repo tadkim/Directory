@@ -47,4 +47,4 @@ ___
    * `…` :      기타.
 
 
-`– main.scss` : 메인 Sass 파일
+**`– main.scss`** : 메인 Sass 파일
